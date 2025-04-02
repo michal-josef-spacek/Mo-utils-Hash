@@ -1,6 +1,5 @@
 TODO
 ====
-2. Tests.
 3. Doc.
 4.
 
@@ -8,3 +7,6 @@ Applied
 =======
 1. First version with check_hash.
 OK [20250326] skim
+
+2. Tests.
+OK [20250402] skim
