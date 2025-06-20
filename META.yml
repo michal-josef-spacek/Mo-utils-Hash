@@ -3,6 +3,8 @@ abstract: 'Mo hash utilities.'
 author:
   - 'Michal Josef Spacek <skim@cpan.org>'
 build_requires:
+  English: 0
+  Error::Pure::Utils: 0
   ExtUtils::MakeMaker: 6.59
   Test::More: 0
   Test::NoWarnings: 0
@@ -18,6 +20,7 @@ meta-spec:
 name: Mo-utils-Hash
 no_index:
   directory:
+    - examples
     - inc
     - t
     - xt
