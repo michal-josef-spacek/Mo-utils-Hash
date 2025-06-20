@@ -1,6 +1,5 @@
 TODO
 ====
-3. Doc.
 4. Check for scalar value in scalar types.
 5. Add value to error in check_hash().
 6.
@@ -12,3 +11,6 @@ OK [20250326] skim
 
 2. Tests.
 OK [20250402] skim
+
+3. Doc.
+OK [20250620] skim

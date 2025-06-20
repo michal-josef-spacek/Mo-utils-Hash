@@ -1,4 +1,6 @@
 Changes
+examples/check_hash_fail.pl
+examples/check_hash_ok.pl
 Hash.pm
 inc/Module/Install.pm
 inc/Module/Install/AuthorRequires.pm
