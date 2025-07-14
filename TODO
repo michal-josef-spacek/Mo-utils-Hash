@@ -2,7 +2,8 @@ TODO
 ====
 4. Check for scalar value in scalar types.
 5. Add value to error in check_hash().
-6.
+6. Check for keys in hash.
+7.
 
 Applied
 =======
