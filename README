@@ -79,7 +79,7 @@ EXAMPLE2
      print "ok\n";
 
      # Output like:
-     # #Error [..Utils.pm:?] Parameter 'key' isn't hash reference.
+     # #Error [..Hash.pm:?] Parameter 'key' isn't hash reference.
 
 EXAMPLE3
      use strict;

@@ -158,7 +158,7 @@ Returns undef.
  print "ok\n";
 
  # Output like:
- # #Error [..Utils.pm:?] Parameter 'key' isn't hash reference.
+ # #Error [..Hash.pm:?] Parameter 'key' isn't hash reference.
 
 =head1 EXAMPLE3
 
